@@ -3,6 +3,6 @@ class CDT :
     """---------------------------------
     #Atributos
     ---------------------------------"""
-    valorinversion =
-    interesmensual =
-    mesapertura = 
+    valorinversion = 0
+    interesmensual = 0
+    mesapertura = 0

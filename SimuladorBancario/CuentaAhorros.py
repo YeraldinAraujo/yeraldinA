@@ -3,5 +3,5 @@ class cuentaahorros :
     """--------------------------------------
     #atributos
     --------------------------------------"""
-    saldo=  
-    interes =
+    saldo=  0
+    interes = 0

@@ -1,8 +1,8 @@
-class simulador bancario :
+class simuladorbancario :
     #aqui va el codigo de simulador bancario
     """---------------------------------------
     #atributos
     ---------------------------------------"""
-    cedula =
+    cedula = 0
     nombres =""
-    mesactual =
+    mesactual = 0
