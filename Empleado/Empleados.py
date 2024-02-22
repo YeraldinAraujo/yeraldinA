@@ -36,3 +36,8 @@ class Empleado:
     def ColsultarNombreCompleto(self):
         return self.nombre +" "+ self.apellido
     
+    def AumentoSalarial(self):
+        nSalario = self.salario * 0.05
+        nsalario = nsalario + self.salario
+        self.salario = nsalario
+        return "El nuevo salario es de : "+self.salario 
