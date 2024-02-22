@@ -28,14 +28,11 @@ class Empleado:
         return self.salario 
     
     def ConsultarNombre(self):
-        # Aqui va el codigo de metodo
         return self.nombre
     
-    def ConsultarApellido(self):
-        # Aqui va el codigo del metodo 
+    def ConsultarApellido(self): 
         return self.apellido
     
-    def ConsultarNombreCompleto(self):
-        #aqui va el codigo del metodo
-        return self.nombre + self.apellido
+    def ColsultarNombreCompleto(self):
+        return self.nombre +" "+ self.apellido
     
